@@ -27,3 +27,5 @@ The project generally starts with a coffee bean seller who has sales data over s
 3. Implementing Slicers for interactive filtering (filter by coffee type, roast type, package size, loyalty card, country).
 4. Adding a Timeline for chronological data trends.
 5. Adding key performance indicator (KPI) cards (Total Sales Revenue, Total Orders, Average Order Value).
+
+(Please select View Raw to view the file)
